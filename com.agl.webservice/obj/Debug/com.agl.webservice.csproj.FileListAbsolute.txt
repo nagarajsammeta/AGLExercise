@@ -1,0 +1,10 @@
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\bin\Debug\com.agl.webservice.dll
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\bin\Debug\com.agl.webservice.pdb
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\bin\Debug\Newtonsoft.Json.dll
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\bin\Debug\RestSharp.dll
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\bin\Debug\Newtonsoft.Json.xml
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\obj\Debug\com.agl.webservice.csprojAssemblyReference.cache
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\obj\Debug\com.agl.webservice.csproj.CoreCompileInputs.cache
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\obj\Debug\com.agl.webservice.csproj.CopyComplete
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\obj\Debug\com.agl.webservice.dll
+C:\AGLExercise\com.agl.webservice\com.agl.webservice\obj\Debug\com.agl.webservice.pdb
